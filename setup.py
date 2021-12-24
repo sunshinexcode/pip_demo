@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pip_sunshine_demo",
-    version="0.0.1",
+    version="0.0.2",
     author="Sunshine",
     author_email="24xinhui@163.com",
     description="A python package for demonstrating how to make pip",
